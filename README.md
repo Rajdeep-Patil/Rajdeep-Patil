@@ -49,10 +49,6 @@
   Generate and improve LinkedIn posts using AI agents.
 - 🍎 **Food Classification & CalorieLens** —
   Image classification using deep learning.
-- 🌦️ **Weather Forecasting RAG Chatbot** —
-  Weather data analysis and temperature forecasting.
-- 📊 **Amazon Sales Data Analysis** —
-  Explore sales data and discover useful insights.
 
 ---
 
