@@ -60,8 +60,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajdeep-Patil&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep-Patil&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🤝 Connect With Me
